@@ -1370,6 +1370,12 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/puma-3.6.2/tools" />
       </SOURCES>
     </library>
+    <library name="R Skeletons">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/r_skeletons/1842261700" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="rack (v1.6.4, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rack-1.6.4/bin" />
