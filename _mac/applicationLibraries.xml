@@ -112,6 +112,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/backports-3.6.8/set_version" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.3.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/lib" />
@@ -1436,6 +1444,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oauth-0.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.0.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/openssl" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/openssl" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.4.0.0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/parser-2.4.0.0/bin" />
@@ -1470,6 +1486,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/properties-ruby-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.2.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/json" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/json" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/psych/visitors" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.5, ruby-2.4.0-p0) [gem]">
@@ -1678,6 +1708,30 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v5.0.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/stats" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/2.4.0/rdoc/stats" />
       </SOURCES>
     </library>
     <library name="ref (v2.0.0, ruby-2.0.0-p481) [gem]">
