@@ -80,6 +80,14 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/data" />
       </SOURCES>
     </library>
+    <library name="aggregator (v0.1.0@4504dd, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-4504dd34a1b3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-4504dd34a1b3/lib" />
+      </SOURCES>
+    </library>
     <library name="aggregator (v0.1.0@543e88, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-543e88dc4bb9/lib" />
