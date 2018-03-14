@@ -612,6 +612,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/hashie-3.5.5/lib" />
       </SOURCES>
     </library>
+    <library name="holidays (v6.4.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/holidays-6.4.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/holidays-6.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/holidays-6.4.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/holidays-6.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http-cookie-1.0.2/lib" />
