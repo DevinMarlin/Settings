@@ -36,6 +36,14 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/activesupport-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.1.6, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/activesupport-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/activesupport-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="adamantium (v0.2.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/adamantium-0.2.0/lib" />
@@ -104,6 +112,16 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-0961d03f2dab/.idea" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-0961d03f2dab/lib" />
+      </SOURCES>
+    </library>
+    <library name="aggregator (v0.1.9@2fda50, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-2fda505c683f/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-2fda505c683f/.idea" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-2fda505c683f/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-2fda505c683f/.idea" />
       </SOURCES>
     </library>
     <library name="aggregator (v0.1.9@b720a5, ruby-2.4.0-p0) [gem]">
@@ -354,6 +372,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/cookiejar-0.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="daemons (v1.2.6, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/daemons-1.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/daemons-1.2.6/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.1, ruby-2.4.0-p0) [gem]">
@@ -740,6 +766,16 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/i18n-0.9.1/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/i18n-0.9.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.0.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/i18n-1.0.0/gemfiles" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/i18n-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/i18n-1.0.0/gemfiles" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/i18n-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, ruby-2.0.0-p648) [gem]">
@@ -1178,6 +1214,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.5, ruby-2.0.0-p481) [gem]">
@@ -2000,6 +2044,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/sequel-4.41.0/lib" />
       </SOURCES>
     </library>
+    <library name="sequel (v5.7.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.7.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.7.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.7.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.7.1/bin" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v1.4.7, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/sinatra-1.4.7/lib" />
@@ -2252,6 +2306,22 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
     </library>
+    <library name="thin (v1.7.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/example" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/ext" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/example" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/ext" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thin-1.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.4, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thor-0.19.4/bin" />
@@ -2430,6 +2500,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.5, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, ruby-2.0.0-p648) [gem]">
