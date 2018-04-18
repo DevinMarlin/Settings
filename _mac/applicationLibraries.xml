@@ -124,6 +124,16 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-2fda505c683f/.idea" />
       </SOURCES>
     </library>
+    <library name="aggregator (v0.1.9@37e708, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-37e708b852de/.idea" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-37e708b852de/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-37e708b852de/.idea" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-37e708b852de/lib" />
+      </SOURCES>
+    </library>
     <library name="aggregator (v0.1.9@b720a5, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-b720a53e3165/.idea" />
@@ -468,6 +478,18 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/data" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20180417, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/tool" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/tool" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20180417/data" />
       </SOURCES>
     </library>
     <library name="effin_utf8 (v1.0, ruby-2.4.0-p0) [gem]">
@@ -1360,6 +1382,20 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.0/ext" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.0/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.0/support" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.5.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.1" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/support" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.1" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/support" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/ext" />
       </SOURCES>
     </library>
     <library name="mysqlplus (v0.1.2, ruby-2.4.0-p0) [gem]">
