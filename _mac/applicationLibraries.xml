@@ -154,6 +154,16 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-3f362b7eea23/lib" />
       </SOURCES>
     </library>
+    <library name="aggregator (v0.1.30@77686e, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-77686e1f40fb/.idea" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-77686e1f40fb/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-77686e1f40fb/.idea" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-77686e1f40fb/lib" />
+      </SOURCES>
+    </library>
     <library name="aggregator (v0.1.9@0961d0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-0961d03f2dab/.idea" />
@@ -1300,6 +1310,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.2.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0521, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/mime-types-data-3.2016.0521/lib" />
@@ -1318,6 +1336,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/types" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.1.0, ruby-2.4.0-p0) [gem]">
@@ -1446,6 +1476,16 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mustermann-1.0.2/bench" />
       </SOURCES>
     </library>
+    <library name="mustermann (v1.0.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.4.10, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
@@ -1512,6 +1552,20 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/support" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/ext" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.5.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.2" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/support" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.2" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/support" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/ext" />
       </SOURCES>
     </library>
     <library name="mysqlplus (v0.1.2, ruby-2.4.0-p0) [gem]">
@@ -1772,6 +1826,18 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.2/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/data" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/data" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/public_suffix-3.0.3/bin" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.11.0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.0" />
@@ -1802,6 +1868,22 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.11.4/ext" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.11.4/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.11.4/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.12.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/tools" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/tools" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-3.12.0/ext" />
       </SOURCES>
     </library>
     <library name="puma (v3.6.0, ruby-2.0.0-p648) [gem]">
@@ -1978,6 +2060,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, ruby-2.0.0-p648) [gem]">
@@ -2308,6 +2398,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sinatra-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sinatra-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="sinatra-assetpack (v0.3.1, ruby-2.4.0-p0) [gem]">
