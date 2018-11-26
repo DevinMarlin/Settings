@@ -154,6 +154,16 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-3f362b7eea23/lib" />
       </SOURCES>
     </library>
+    <library name="aggregator (v0.1.30@5914c2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-5914c2810d2f/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-5914c2810d2f/.idea" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-5914c2810d2f/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-5914c2810d2f/.idea" />
+      </SOURCES>
+    </library>
     <library name="aggregator (v0.1.30@77686e, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/Aggregator-77686e1f40fb/.idea" />
@@ -2852,6 +2862,16 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thor-0.20.0/lib" />
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thor-0.20.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.20.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thor-0.20.3/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thor-0.20.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thor-0.20.3/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/thor-0.20.3/bin" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, ruby-2.0.0-p648) [gem]">
