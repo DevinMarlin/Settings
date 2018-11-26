@@ -246,6 +246,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/amq-protocol-2.1.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="amq-protocol (v2.3.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/benchmarks" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/codegen" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/benchmarks" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/amq-protocol-2.3.0/codegen" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.3.0, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
@@ -336,6 +350,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bundler-1.13.7/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bundler-1.13.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bundler-1.13.7/man" />
+      </SOURCES>
+    </library>
+    <library name="bunny (v2.12.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/benchmarks" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/.github" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/docker" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/benchmarks" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/.github" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/docker" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.12.0/bin" />
       </SOURCES>
     </library>
     <library name="bunny (v2.6.5, ruby-2.4.0-p0) [gem]">
