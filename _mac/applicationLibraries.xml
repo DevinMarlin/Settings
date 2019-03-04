@@ -782,6 +782,37 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.13.0/benchmarks" />
       </excluded>
     </library>
+    <library name="bunny (v2.14.1, ruby-2.4.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/spec" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/docker" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/.github" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/examples" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/spec" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/docker" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/.github" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/examples" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/spec" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/docker" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/.github" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/examples" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/profiling" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/bunny-2.14.1/benchmarks" />
+      </excluded>
+    </library>
     <library name="bunny (v2.6.5, ruby-2.4.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
