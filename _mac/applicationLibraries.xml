@@ -3799,6 +3799,31 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.0/tools" />
       </excluded>
     </library>
+    <library name="puma (v4.0.1, ruby-2.4.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/ext" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/docs" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/ext" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/docs" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/ext" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/docs" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/puma-4.0.1/tools" />
+      </excluded>
+    </library>
     <library name="R Skeletons">
       <CLASSES />
       <SOURCES />
