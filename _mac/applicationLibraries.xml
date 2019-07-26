@@ -3827,7 +3827,9 @@
       </excluded>
     </library>
     <library name="R Skeletons">
-      <CLASSES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/r_skeletons/1481726564" />
+      </CLASSES>
       <SOURCES />
     </library>
     <library name="rabbitmq_http_api_client (v1.8.0, ruby-2.4.0-p0) [gem]" type="rubylib">
