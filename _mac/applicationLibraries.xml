@@ -4741,6 +4741,28 @@
         <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.22.0/spec" />
       </excluded>
     </library>
+    <library name="sequel (v5.23.0, ruby-2.4.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/doc" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/doc" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/lib" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/bin" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/doc" />
+        <root url="file:///usr/local/Cellar/ruby/2.4.0/lib/ruby/gems/2.4.0/gems/sequel-5.23.0/spec" />
+      </excluded>
+    </library>
     <library name="sequel (v5.7.1, ruby-2.4.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
