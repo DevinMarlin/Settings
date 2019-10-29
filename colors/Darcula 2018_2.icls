@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2018-11-30T15:02:14</property>
+    <property name="modified">2019-10-29T16:29:12</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
@@ -12,7 +12,6 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <attributes>
     <option name="RUBY_COMMA">
       <value>
